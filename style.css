@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(193, 222, 255);
+}
+.titulo{
+    text-align: center;
+}
+.texto{
+    text-align: center;
+}
+.envoltura{
+    display: flex;
+    justify-content: center;
+}
+.todo{
+
+    width: 500px;
+    height: 500px;
+
+
+}
+img{
+    width: 100%;
+}
